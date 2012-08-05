@@ -1,0 +1,24 @@
+﻿section {
+    border-bottom: 2px lightgrey solid;
+    margin-bottom: 2px;
+}
+
+section#personalInfo p {
+    line-height: 1.5em;
+}
+
+section#personalInfo p strong, 
+section#personalInfo p em {
+    display: block;
+}
+
+section#personalInfo p span#personName {
+    font-size: 2em;
+    line-height: 1.8em;
+}
+
+@media print {
+    body {
+        font-family: Georgia, Arial;
+    }
+}
