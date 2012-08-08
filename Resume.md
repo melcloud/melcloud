@@ -7,6 +7,7 @@
 *melcloud2005@gmail.com*
 
 ----------
+
 ## Summary ##
 A result-driven, customer-focused analytical and collaborative C# application developer who has experience in variety of complex business applications in educational industry. Strong in business domain driven application design and integration problem solving skills. Possessed specialised knowledge in C#, ASP.NET and Oracle PL/SQL database analysis and design. Also skills in high level application design with onion architecture, user stories, continuous integration and continuous delivery.
 
@@ -22,6 +23,7 @@ Currently interested in a challenging technical track career with an agile devel
 - Demonstrate a wider involvement and passion for development and related technologies, and be able to introduce new ideas, approaches and information to projects.
 
 ----------
+
 ## Experience ##
 #### Application Developer at Hobsons Asia Pacific ####
 ###### December 2008 - Present (3 years 9 months) ######
@@ -42,6 +44,7 @@ Currently interested in a challenging technical track career with an agile devel
 - Document the evaluation procedures to ensure a robust and technically system.
 
 ----------
+
 ## Specialties & Expertise ##
 ##### Development Language #####
 - C#
@@ -69,25 +72,31 @@ Currently interested in a challenging technical track career with an agile devel
 - DDD
 
 ----------
+
 ## Education ##
 #### Swinburne University of Technology ####
 ###### Bachelor of Computer Software Engineering, 2005 - 2008 ######
- - High Distinction in Agile Development Project 
+- High Distinction in Agile Development Project 
 
 #### Wesley College ####
 ###### High School, 2003 - 2005 ######
 - High Achievement in Information Technology
 
 ----------
+
 ## Languages ##
 - Chinese
 
 ----------
+
 ## Honours and Awards ##
 - Hobsons Excellence in Innovation 2010/2011
 - Nomination of Hobsons Employee of the Year 2010/2011
 - Nomination of Hobsons Best Newcomers 2010/2011
 
 ----------
+
 ## Interests ##
-New technology, TV Shows, Linux 
+- New technology
+- TV Shows 
+- Linux 
