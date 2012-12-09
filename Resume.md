@@ -1,4 +1,4 @@
-**Yin Zhang**
+﻿**Yin Zhang**
 
 **C# Application Developer**
 
@@ -9,13 +9,13 @@
 ----------
 
 ## Summary ##
-A result-driven, customer-focused analytical and collaborative C# application developer who has experience in variety of complex business applications in educational industry. Strong in business domain driven application design and integration problem solving skills. Possessed specialised knowledge in C#, ASP.NET and Oracle PL/SQL database analysis and design. Also skills in high level application design with onion architecture, user stories, continuous integration and continuous delivery.
+A result-driven, customer-focused, analytical and collaborative C# application developer who has experience in designing and developing a variety of complex business applications in educational industry. Possesses specialised knowledge in C#, ASP.NET and Oracle PL/SQL database schema analysis and design and strong in business driven application design and integration problem solving skills. Also skills in high level application design with onion architecture, test driven development, continuous integration and continuous delivery.
 
-Currently interested in a challenging technical track career with an agile development environment which reflects a deep understanding of business domain.
+Currently interested in working at a challenging and agile environment which reflects a deep understanding of business domain.
 
 #### Key Skills ####
 - Extensive experience in object orientated systems architecture and modelling concepts with a sound knowledge of agile development.
-- Fluent with HTML, CSS JavaScript, csharp, asp.net and PL\SQL, and their related tools and processes.
+- Fluent with HTML, CSS JavaScript, C#, asp.net and PL\SQL, and their related tools and processes.
 - Exceptional analytical aptitude to domain driven design and inherent attention to detail. 
 - Ability to learn on the job, continually learning new approaches in developing and implementing enterprise solutions.
 - Excellent self-management and organisation skills to enable productive team-working.
@@ -25,8 +25,8 @@ Currently interested in a challenging technical track career with an agile devel
 ----------
 
 ## Experience ##
-#### Application Developer at Hobsons Asia Pacific ####
-###### December 2008 - Present (3 years 9 months) ######
+#### Senior Application Developer at Hobsons Asia Pacific ####
+###### December 2008 - Present (4 years 1 months) ######
 ###### 4 recommendations available upon request  ######
 - Design and develop ASP.NET based enterprise solutions to manage student enquiries and applications which used by major university in Australia.
 - Implement ETL services and data warehouse solutions by using Oracle Change Data Capture technology which brings accurate and up-to-date data for reporting team.
@@ -37,6 +37,7 @@ Currently interested in a challenging technical track career with an agile devel
 - Maintain code repository structure, build configurations and unit tests to ensure continuous delivery.
 - Play a significant role in building technology roadmap and making technical investment decisions and advancing development methodology and process.
 - Assist team leader in initial recruitment and take ownership to lead, motivate and mentor junior developers to ensure they are working efficiently and productively on project activity as a team.
+- Initialise and manage Kanban board
 
 #### Student Internship at CSIRO ####
 ###### January 2008 - February 2008 (2 months) ######
@@ -45,15 +46,14 @@ Currently interested in a challenging technical track career with an agile devel
 
 ----------
 
-## Specialties & Expertise ##
+## Specialities & Expertise ##
 ##### Development Language #####
 - C#
 - ASP.NET
 - LINQ
 - Oracle PL\SQL
 - SQL
-- HTML
-- CSS
+- HTML & CSS
 - JavaScript
 - JQuery
 
@@ -63,12 +63,13 @@ Currently interested in a challenging technical track career with an agile devel
 - SVN
 - xUnit
 - Linux
+- MSpec
 
 ##### Patterns and Practices #####
 - MVC
 - Continuous Integration
 - Design Patterns
-- Database Design
+- Database Schema Design
 - DDD
 
 ----------
